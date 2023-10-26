@@ -104,6 +104,7 @@ a {
     display: flex;
     margin: 20% 20%;
     border-radius: 2rem;
+    width: 700px;
     box-shadow: 8px 10px 70px hsla(241, 100%, 89%, 40%);
   }
   .results {
