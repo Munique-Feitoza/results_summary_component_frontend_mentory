@@ -108,7 +108,7 @@ a {
     box-shadow: 8px 10px 70px hsla(241, 100%, 89%, 40%);
   }
   .results {
-    margin: 0;
+    margin: 0 1rem 0 0;
     width: 350px;
     border-radius: 2rem;
   }
