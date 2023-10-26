@@ -102,7 +102,7 @@ a {
 @media (min-width: 420px) {
   .projeto {
     display: flex;
-    margin: 20% 10%;
+    margin: 20% 20%;
     border-radius: 2rem;
     box-shadow: 8px 10px 70px hsla(241, 100%, 89%, 40%);
   }
