@@ -109,7 +109,7 @@ a {
   }
   .results {
     margin: 0;
-    padding-left: 1rem;
+    padding: 0 1rem;
     width: 350px;
     border-radius: 2rem;
   }
