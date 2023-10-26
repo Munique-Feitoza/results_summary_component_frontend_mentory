@@ -21,7 +21,7 @@ Do a web page accessible for desktop and mobile.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Code in GitHub](https://github.com/Munique-Feitoza/results_summary_component_frontend_mentory)
 - Live Site URL: [GitHub playground](https://munique-feitoza.github.io/results_summary_component_frontend_mentory/)
 
 ## My process
