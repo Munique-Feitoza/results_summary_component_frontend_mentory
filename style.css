@@ -99,7 +99,7 @@ a {
   text-decoration: none;
   color: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
-@media (min-width: 420px) {
+@media (min-width: 720px) {
   .projeto {
     display: flex;
     margin: 10% 10%;
